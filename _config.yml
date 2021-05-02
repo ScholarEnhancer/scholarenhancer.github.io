@@ -3,5 +3,6 @@ theme: jekyll-theme-slate
 title: Scholar Enhancer
 show_downloads: true
 github:
+  repository_url: https://github.com/ScholarEnhancer/ScholarEnhancer
   chrome_url: https://chrome.google.com/webstore/detail/scholarenhancer/nddafijbmgolhdgmpedfpadenjlemdlc
   firefox_url: https://addons.mozilla.org/en-US/firefox/addon/scholarenhancer
