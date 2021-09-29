@@ -12,4 +12,6 @@ Get it from [Chrome Webstore](https://chrome.google.com/webstore/detail/scholare
 Please report any issues on [GitHub](https://github.com/ScholarEnhancer/ScholarEnhancer).
 Also, feel free to contribute code to enhance the enhancer! ;)
 
+Change log: [Github link](https://github.com/ScholarEnhancer/ScholarEnhancer/blob/main/chrome/ChangeLog.md)
+
 Disclaimer: This extension is _not_ a Google product.
